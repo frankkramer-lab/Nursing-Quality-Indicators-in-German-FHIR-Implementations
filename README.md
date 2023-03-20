@@ -1,8 +1,7 @@
-# Nursing-Quality-Indicators-in-German-FHIR-Implementations
-Evaluation of the Availability of Nursing Quality Indicators in German FHIR Implementations
+# Evaluation of the Availability of Nursing Quality Indicators in German FHIR Implementations
 
+***Steffen NETZBAND, Katharina OTT, Florian AUER and Frank KRAMER***
 
-## Steffen NETZBAND, Katharina OTT, Florian AUER and Frank KRAMER
 *IT-Infrastructure for Translational Medical Research, University of Augsburg, Germany*
 
 
